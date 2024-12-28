@@ -25,7 +25,7 @@ Clusterização:
     Métricas de performance: Silhouette Score
 
 ## 2. Estratégia da solução
-Os códigos foram escritos utilizando a linguagem Python e seus principais parâmetros de ajuste de overfitting foram variados observando a métrica final. O conjunto de valores que fizeram os algoritmos alcançarem a melhor performance, serão aqueles escolhidos para o treinamento final do algoritmo.
+Os códigos foram escritos utilizando a linguagem Python e seus principais parâmetros de ajuste de overfitting foram variados observando a métrica final. O conjunto de valores que fizeram os algoritmos alcançarem a melhor performance serão aqueles escolhidos para o treinamento final do algoritmo.
 
 ### 2.1 O passo a passo
 Passo 1: Divisão dos dados em treino, validação e teste.
