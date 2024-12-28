@@ -46,9 +46,16 @@ Passo 7: Medir a performance do algoritmo treinado com os melhores parâmetros, 
 ## 3. Resultados
 Classificação:
 
+![](img-classificacao.pdf)
+
 Regressão:
 
+![](img1-regressao.pdf)
+![](img2-regressao.pdf)
+
 Clusterização:
+
+![](img-clusterizacao.pdf)
 
 
 ## 4. Top insights
